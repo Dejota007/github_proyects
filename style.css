@@ -115,8 +115,8 @@ email:invalid{
 
 }
 .input:hover{
-    box-shadow: 0 0 10px #ffff;
+    box-shadow: 0 0 3px #ffff;
 }
 textarea:hover{
-    box-shadow: 0 0 10px #ffff;
+    box-shadow: 0 0 3px #ffff;
 }
